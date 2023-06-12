@@ -1,0 +1,1 @@
+REPLICATE_API_TOKEN="r8_8c7ftwsAL5HeiovUvf04JrocJaVjSjq4Kd81E"
